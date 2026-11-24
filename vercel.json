@@ -1,0 +1,15 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/de/galerie",
+      "destination": "/de/index",
+      "permanent": true
+    },
+    {
+      "source": "/en/galerie",
+      "destination": "/en/index",
+      "permanent": true
+    }
+  ]
+}

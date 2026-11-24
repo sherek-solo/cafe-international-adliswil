@@ -1,0 +1,14 @@
+Café International Adliswil – Website (statisch)
+================================================
+
+Diese Website braucht keinen Server und keine Datenbank.
+Den gesamten Inhalt dieses Ordners hochladen, fertig.
+
+Sprachen (je ein Ordner): de, en, fr, it, es, pt, sq, bs-hr, sr, tr, ru, uk, ar
+Jede Sprache hat dieselben 10 Seiten. Die Sprachwahl oben führt zur gleichen Seite in der anderen Sprache.
+
+Hosting: funktioniert bei Infomaniak-Webhosting (.htaccess enthalten),
+Vercel (vercel.json enthalten) und Netlify (_redirects enthalten).
+
+Änderungen an Texten oder Terminen: neue Version über Claude erzeugen lassen
+(Vorlagen und Übersetzungen liegen ausserhalb dieses Pakets).
